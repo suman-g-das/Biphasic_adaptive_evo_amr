@@ -21,4 +21,3 @@ The code wright-fisher-til.py simulates Wright-Fisher dynamics on the TIL fitnes
 
 
 
-![image](https://github.com/user-attachments/assets/1bf314e8-d8ab-40a7-b181-bdc35e7346d6)
