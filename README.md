@@ -1,4 +1,4 @@
-Codes accompanying paper “Biphasic adaptive evolution of antimicrobial resistance” by Suman G. Das, Muhittin Mungan, Joachim Krug.
+Codes accompanying paper “Epistasis-mediated compensatory evolution in a fitness landscape with adaptational tradeoffs” by Suman G Das, Muhittin Mungan, Joachim Krug.
 The code adaptive-walk.f90 simulates averages over random walks on TIL landscape.
 
 •	The code is written in Fortran and can be compiled with the gfortran compiler from terminal. 
